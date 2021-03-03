@@ -6,3 +6,5 @@ Samples expected from sequencing core 2013-01-10
 
 
 Maise reference genome version:refgen3
+
+Adapter file: adapters.fa
